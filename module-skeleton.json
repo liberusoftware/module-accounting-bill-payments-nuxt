@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-bill-payments-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-bill-payments",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-bill-payments-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/bill-payments.md",
+  "presentationPlan": "projects/accounting/nuxt/bill-payments.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
